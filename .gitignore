@@ -1,0 +1,4 @@
+# these files will now not push to git i think?
+
+.env
+node_modules
